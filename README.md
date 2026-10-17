@@ -6,6 +6,8 @@ Hexward watches every page you load, flags security weaknesses, and maps each on
 plain-English explanation and two fixes: one for the site owner (with copy-paste config),
 one for you as a visitor.
 
+<img width="1236" height="600" alt="image" src="https://github.com/user-attachments/assets/5dc5b252-5dad-4319-9af4-9b54866976b9" />
+
 ## Install (2 minutes, desktop Chrome / Edge / Brave)
 1. Unzip `hexward.zip`.
 2. Go to `chrome://extensions` and switch on **Developer mode** (top right).
